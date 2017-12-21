@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

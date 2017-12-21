@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\logo.png",
+        "source": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher_round.png",
+        "source": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

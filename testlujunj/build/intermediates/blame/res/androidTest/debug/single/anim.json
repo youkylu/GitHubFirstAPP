@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]

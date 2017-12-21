@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

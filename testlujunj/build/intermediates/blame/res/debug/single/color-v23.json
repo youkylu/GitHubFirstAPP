@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\Program Files\\workspace\\GitHubFirstAPP\\testlujunj\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "E:\\Cache\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\120d17191d97d41375724264356c5835\\res\\color-v23\\abc_tint_edittext.xml"
+    }
+]
