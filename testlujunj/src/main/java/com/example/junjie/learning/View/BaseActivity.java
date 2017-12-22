@@ -1,4 +1,4 @@
-package com.example.junjie.learning;
+package com.example.junjie.learning.View;
 
 import android.content.Context;
 import android.content.pm.ActivityInfo;
@@ -13,11 +13,12 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.view.inputmethod.InputMethodManager;
 
+import com.example.junjie.learning.MainAppplication;
 import com.example.junjie.learning.Util.ToastUtils;
 import com.example.junjie.learning.Util.ToolUtil;
 
 /**
- * <p>Class: com.example.junjie.learning.BaseActivity</p>
+ * <p>Class: com.example.junjie.learning.View.BaseActivity</p>
  * <p>Description: </p>
  * <pre>
  *
@@ -29,34 +30,49 @@ import com.example.junjie.learning.Util.ToolUtil;
 
 
 public class BaseActivity extends AppCompatActivity {
-    private boolean mAllowFullScreen = true;
-    private boolean isSetStatusBar = true;
-    private boolean isAllowScreenRoate = false;
+    private boolean mAllowFullScreen = false;
+    private boolean isSetStatusBar = false;
+    private boolean isAllowScreenRoate = true;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        initView();
-        initData();
-        initEvent();
-        initList();
+
+        /**
+         * 状态栏控制消失与否
+         */
         if (mAllowFullScreen) {
             this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
             requestWindowFeature(Window.FEATURE_NO_TITLE);
         }
+
+        /**
+         * 内容全屏与否
+         */
         if (isSetStatusBar) {
             steepStatusBar();
         }
+
+
         if(!isAllowScreenRoate){
             setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
         }else{
             setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         }
 
+        initView();
+        initData();
+        initEvent();
+        initList();
+
     }
 
     protected void initView() {
 
+        /**
+         *  setContentView should be override in this method, and never overrider in onCreate method,
+         *  or there will occur an error.
+         */
     }
 
     protected void initData() {
@@ -115,6 +131,12 @@ public class BaseActivity extends AppCompatActivity {
             imm.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), 0);
         }
     }
+
+    /**
+     * hide when click blank space
+     * @param ev
+     * @return
+     */
 
     @Override
     public boolean dispatchTouchEvent(MotionEvent ev) {

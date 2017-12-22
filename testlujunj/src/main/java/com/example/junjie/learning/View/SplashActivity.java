@@ -1,4 +1,4 @@
-package com.example.junjie.learning;
+package com.example.junjie.learning.View;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,7 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.KeyEvent;
 
 /**
- * <p>Class: com.example.junjie.learning.SplashActivity</p>
+ * <p>Class: com.example.junjie.learning.View.SplashActivity</p>
  * <p>Description: </p>
  * <pre>
  *
